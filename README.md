@@ -1,4 +1,4 @@
-# te_demo — TradeRevolution CLI
+# te_demo — TraderEvolution CLI
 
 Command-line interface для TradeRevolution REST API.
 
