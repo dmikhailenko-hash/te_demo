@@ -6,7 +6,7 @@ Command-line interface для TradeRevolution REST API.
 
 ### Windows (PowerShell)
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_ORG/te_demo/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/dmikhailenko-hash/te_demo/main/install.ps1 | iex
 ```
 
 ### Linux / macOS
