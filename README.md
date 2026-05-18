@@ -41,6 +41,10 @@ te_demo accounts orders 12345
 
 # Доступные инструменты
 te_demo accounts instruments 12345
+
+# Доступные инструменты с фильтром 
+te_demo accounts instruments 12345 --search <symbol,description>
+
 ```
 
 ---
