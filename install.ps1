@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 $Repo    = "dmikhailenko-hash/te_demo"
 $Binary  = "te_demo.exe"
 $InstDir = "$env:USERPROFILE\.te_demo\bin"
-$Tag     = "v1.0.2"
+$Tag     = "1.0.2"
 
 Write-Host ""
 Write-Host "  Installing te_demo $Tag ..." -ForegroundColor Cyan
